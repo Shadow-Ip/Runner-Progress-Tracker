@@ -1,0 +1,6 @@
+Emma Smith,50,10,4,8,2.50,10.00
+Thomas Mabulana,40,7,8,6,0.88,No time left. You already lost the race.
+Thabang Mike,40,2,10,12,0.20,19.00
+Ngcobo Lesedi,50,35,16,20,2.19,3.75
+Tsheofatso Mhlanga,50,2,1.5,8,1.33,7.38
+Maduveko James,50,24,16,12,1.50,No time left. You already lost the race.
